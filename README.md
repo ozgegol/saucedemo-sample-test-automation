@@ -157,9 +157,6 @@ You can update the `baseURL` in `playwright.config.ts` for different environment
 - Use `page.pause()` to pause test execution
 - Use Playwright Inspector for step-by-step debugging
 
-## 📞 Support
-
-For questions regarding test scenarios, please refer to the project documentation or consult the official Playwright documentation.
 
 ---
 
